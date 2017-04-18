@@ -7,6 +7,7 @@ end
 
 group :development do
   gem 'listen'
+  gem 'foreman'
 end
 
 gem 'rails', '~> 5.0.2'
